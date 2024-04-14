@@ -5,3 +5,6 @@ function hello() {
 }
 
 const a = 25;
+function multiply(a, b) {
+  return a * b;
+}
