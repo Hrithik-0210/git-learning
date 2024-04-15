@@ -8,3 +8,4 @@ const a = 25;
 function multiply(a, b) {
   return a * b;
 }
+const abc = 123;
